@@ -1,0 +1,104 @@
+{    "format":[{
+        "id": "",
+        "name":"",
+        "code_address":"",
+        "demo_url":"",
+        "thumbnail":""
+        }],
+    "figma_design":[
+        {
+        "id": "sun_icon",
+        "name":"Sun Icon",
+        "code_address":"https://embed.figma.com/design/vAvGWKUzJNuNDXG9E4Z60p/first-design?node-id=0-1&embed-host=share",
+        "demo_url":"https://embed.figma.com/design/vAvGWKUzJNuNDXG9E4Z60p/first-design?node-id=0-1&embed-host=share",
+        "thumbnail":"https://i.postimg.cc/tCCy2tmT/first-design.png"
+        }
+    ],
+
+    "simple_web_page":[
+        {
+        "id": "burger-shop",
+        "name":"Burger Shop",
+        "code_address":"https://github.com/sainijitendrakumar/Bootstrap-Projects/tree/main/burger%20shop",
+        "demo_url":"https://bootstrap-projects-six.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/tgJWVRTG/Screenshot-2024-11-30-181411.png"
+        },
+        {
+        "id": "happy-meal",
+        "name":"Happy Meal",
+        "code_address":"https://github.com/sainijitendrakumar/Bootstrap-Projects/tree/main/food%20Delivary",
+        "demo_url":"https://bootstrap-projects-6xxw.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/fTDHSZj8/Screenshot-2024-11-30-181109.png"
+        },{
+        "id": "job-finder-app",
+        "name":"Job finder app",
+        "code_address":"https://github.com/sainijitendrakumar/Bootstrap-Projects/tree/main/job-finder-bootstrap",
+        "demo_url":"https://bootstrap-projects-h4ug.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/yYwr65YP/Screenshot-2024-11-30-181806.png"
+        }
+    ],
+
+    "vanilla_js_projects":[
+        {
+        "id": "tic-tac-toi-game",
+        "name":"Tic-Tac-Toi Game",
+        "code_address":"https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/Tic-Tac-Toi",
+        "demo_url":"https://vanilla-js-projects-ivory.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/tTzb2Ktz/Screenshot-2024-11-30-173056.png"
+        },
+        {
+        "id": "password-generator",
+        "name":"Password Generator",
+        "code_address":"https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/password_genrator",
+        "demo_url":"https://vanilla-js-projects-w22d.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/Gp5grq31/Screenshot-2024-11-30-173231.png"
+        },
+        {
+        "id": "drag-down-notes",
+        "name":"Drag down notes",
+        "code_address":"https://github.com/sainijitendrakumar/Vanilla-JS-Projects/tree/main/drag-down%20notes",
+        "demo_url":"https://vanilla-js-projects-tu3j.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/v82nhT8D/Screenshot-2024-11-30-173713.png"
+        }
+    ],
+
+    "react_projects":[
+        {
+        "id": "dark-mode-with-context-api",
+        "name":"Dark Mode with Context api",
+        "code_address":"https://github.com/sainijitendrakumar/react.js/tree/main/background%20change%20with%20context",
+        "demo_url":"https://react-js-livid.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/RZprxsxv/Screenshot-2024-11-30-154251.png"
+        },{
+        "id": "todo-list-app",
+        "name":"Todo List App",
+        "code_address":"https://github.com/sainijitendrakumar/react.js/tree/main/context_api_with_local_storage",
+        "demo_url":"https://react-js-7czk.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/0NxZfNd6/Screenshot-2024-11-30-162600.png"
+        },
+        {
+        "id": "currency-convertor",
+        "name":"Currency convertor",
+        "code_address":"https://github.com/sainijitendrakumar/react.js/tree/main/Currency%20convertor",
+        "demo_url":"https://react-js-99ei.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/gcDqx7cp/Screenshot-2024-11-30-182448.png"
+        },
+        {
+        "id": "password_generator",
+        "name":"Password Generator",
+        "code_address":"https://github.com/sainijitendrakumar/React.js-Projects/tree/main/password_generator",
+        "demo_url":"https://react-js-projects-gold.vercel.app/",
+        "thumbnail":"https://i.postimg.cc/Bn4TjTHc/Screenshot-2024-12-03-175725.png"
+        }
+    ],
+
+    "mega_projects":[
+        {
+        "id": "",
+        "name":"YouTube Clone",
+        "code_address":"",
+        "demo_url":"https://www.youtube.com/embed/E7RxPlNbMrE?si=jJzK8jpUxIJI22W-",
+        "thumbnail":"https://i.postimg.cc/J0v0SZ5D/youtube-clone-image.png"
+        }
+    ]
+}
