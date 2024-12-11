@@ -30,6 +30,14 @@ function Side_bar() {
           >
             <List>💫 Projects Preview </List>
           </NavLink>
+           <NavLink
+            to={"/figma_design"}
+            className={({ isActive }) =>
+              isActive ? "bg-slate-50 text-red-700" : ""
+            }
+          >
+            <List>💫 figma </List>
+          </NavLink>
           <NavLink
             to={"/react_projects"}
             className={({ isActive }) =>
@@ -67,14 +75,7 @@ function Side_bar() {
             }>
             <List>💫 FullStack Projects </List>
           </NavLink> */}
-          <NavLink
-            to={"/figma_design"}
-            className={({ isActive }) =>
-              isActive ? "bg-slate-50 text-red-700" : ""
-            }
-          >
-            <List>💫 figma </List>
-          </NavLink>
+         
           <NavLink
             to={"/components"}
             className={({ isActive }) =>
