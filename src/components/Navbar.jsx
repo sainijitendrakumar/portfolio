@@ -21,7 +21,7 @@ function Navbar() {
             <input
               type="text"
               placeholder="Search"
-              className="w-[90%] py-2 rounded-s-2xl px-2 border border-e-black "
+              className="w-[90%] py-2 rounded-s-2xl px-2 border border-e-black focus-visible:outline-none"
             />
             <button className="flex m-auto justify-center items-center ">
               <svg
