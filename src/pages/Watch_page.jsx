@@ -48,7 +48,7 @@ export default TodoList;`;
           <iframe
             className={`${
               toggle ? "hidden" : "block"
-            } rounded-lg pt-15 w-full h-[250px] bg-gray-400  md:h-[450px] lg:w-full lg:h-[514px] m-2`}
+            } rounded-lg pt-15 w-full h-[250px] bg-gray-400  md:h-[450px] lg:w-full lg:h-[570px] m-2`}
             src={project_name}
             title='Android Users Reaction to IOS 18 "New Features"'
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
